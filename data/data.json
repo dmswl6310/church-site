@@ -1,0 +1,29 @@
+{
+    "items":[
+        {
+            "type":"salvation",
+            "source":"https://www.youtube.com/embed/dlXXS0wB4tk",
+            "length":"long",
+            "title":"구원 받았는지 아닌지 아는방법"
+        },
+        {
+            "type":"salvation",
+            "source":"https://www.youtube.com/embed/I-tUL1nN5qU",
+            "length":"short",
+            "title":"구원이란 무엇인가?"
+        },
+        {
+            "type":"sin",
+            "source":"https://www.youtube.com/embed/OG51So2TbU8",
+            "length":"long",
+            "title":"회개한 후에도 반복해서 짓는 죄를 어떻게 할까?"
+        },
+        {
+            "type":"gospel",
+            "source":"https://www.youtube.com/embed/08wkqcP88sA",
+            "length":"short",
+            "title":"복음이란 무엇인가?"
+    }
+
+        ]
+}
