@@ -6,6 +6,7 @@ toggleBtn.addEventListener('click',()=>{
     menu.classList.toggle('active');
     icon.classList.toggle('active');
 });
+
 $('.slider > .page-btns > div').click(function(){
     var $this = $(this);
     var index = $this.index();
