@@ -15,7 +15,7 @@ container.innerHTML=items.map(item=>createHTMLString(item)).join('');
 function createHTMLString(item){
     return `
     <li class="item"><div class="videoTitle">${item.title}</div>
-    <iframe width="560" height="315" src="${item.source}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="94%" height="330" src="${item.source}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </li>
     `;
     //<img src="${item.image}" alt="${item.type}" class="item__thumbnail">
