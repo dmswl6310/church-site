@@ -4,8 +4,8 @@
   --text-color: rgb(244, 250, 244);
   --accent-color: rgb(92, 84, 81);
 
-  --base-space: 8px;
-  --font-size: 15px;
+  --base-space: 0.8vw;
+  --font-size: 1.5vw;
 }
 * {
   font-family: "Noto Sans KR", sans-serif;
