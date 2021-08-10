@@ -227,7 +227,7 @@ ul, li {
 .item {
   background-color: var(--background-color);
   display: flex;
-  align-items: center;
+  flex-direction:column;
   padding: var(--base-space);
   margin-bottom: var(--base-space);
   color: var(--text-color);
@@ -235,7 +235,7 @@ ul, li {
 .videoTitle {
   background-color: var(--text-color);
   margin-right: 1vw;
-  width: 30vw;
+  width: 70vw;
   padding : 1vw;
   color: var(--accent-color);
   font-size: calc(var(--font-size) * 1.3);
