@@ -26,7 +26,7 @@ ul, li {
   list-style:none;
 }
 .slider{
-  height:400px;
+  height:40vw;
   position:relative;
 }
 
@@ -39,8 +39,8 @@ ul, li {
 }
 
 .slider > .page-btns > div {
-  width:20px;
-  height:20px;
+  width:2vw;
+  height:2vw;
   background-color:rgba(255,255,255,.5);
   border-radius:4px;
   display:inline-block;
@@ -87,9 +87,9 @@ ul, li {
     transform:translatey(-50%);
     background-color:white;
     opacity:0.5;
-    padding:1px 13px;
+    padding: 0.1vw 1.3vw;
     border-radius:50px;
-    font-size:25px;
+    font-size:2.5vw;
 }
 .slider >.side-btns > div:last-child > span {
     left:auto;
@@ -274,4 +274,6 @@ ul, li {
   .nav__icon.active {
     display: flex;
   }
+  
+
 }
